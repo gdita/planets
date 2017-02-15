@@ -1,0 +1,1 @@
+Example to set up git repository.
