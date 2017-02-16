@@ -1,1 +1,2 @@
 Example to set up git repository.
+Modifying the file.
